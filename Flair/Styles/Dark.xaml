@@ -1,0 +1,21 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Color x:Key="BlackColor">#FFFFFFFF</Color>
+    <Color x:Key="WhiteColor">#FF2d2d30</Color>
+
+    <Color x:Key="NormalForegroundColor">#FFFFFFFF</Color>
+    <Color x:Key="HoverForegroundColor">#FF000000</Color>
+
+    <Color x:Key="Gray3">#FF2d2d30</Color>
+    <Color x:Key="Gray5">#FF7e7e7e</Color>
+    <Color x:Key="Gray7">#FF2f2f2f</Color>
+    <Color x:Key="Gray8">#FF454545</Color>
+
+    <Color x:Key="GrayNormal">#FF7D7D7D</Color>
+    <Color x:Key="GrayHover">#FFAAAAAA</Color>
+
+    <Color x:Key="SubtleGray">#FF333333</Color>
+    <SolidColorBrush x:Key="SubtleGrayBrush" Color="{DynamicResource SubtleGray}" />
+    
+</ResourceDictionary>

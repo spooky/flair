@@ -1,0 +1,7 @@
+_ReSharper*
+*.suo
+*.csproj.user
+*.sln.DotSettings.user
+bin
+obj
+packages
