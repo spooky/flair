@@ -8,7 +8,6 @@ Currently Flair supports converting less, sass and coffee script with stylus com
 * .net framework 4.5
 
 ## Known problems ##
-* App starts up slowly
 * When the tool reports a weird error - just start typing
 
 ## Future plans ##
