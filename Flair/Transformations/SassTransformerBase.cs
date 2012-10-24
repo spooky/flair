@@ -44,7 +44,7 @@ namespace Flair.Transformations
             option = engine.Execute(syntaxOption);
         }
 
-        public string Transform(string text)
+        public virtual string Transform(string text)
         {
             try
             {
